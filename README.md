@@ -41,7 +41,7 @@ Now open `http://localhost:3000` in your browser.
 
 ## 🔗 Live Demo
 
-[Click here to see it live](https://rohit99058.github.io/RGB-Color-Mixer/)
+[Click here to see it live](https://rgb-color-mixer.onrender.com)
 
 ## 👨‍💻 Author
 
